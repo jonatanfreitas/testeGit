@@ -2,15 +2,28 @@
 <html>
 <head>
 <meta charset="UTF-8"/>
-<title>Document</title>
+<title>Document testes do kubernetes</title>
 </head>
 <body>
 <!-- Conteúdo -->
-<p>lista 1</p>
-<p>lista 2</p>
-<p>lista 3</p>
+<p>Lista Java sem exemplos</p>
+<p>Lista SQL sem exemplos</p>
+<p>Lista PHP sem exemplos</p>
+<p>Lista 3</p>
+>>>>>>> listauser2_3
 <p>lista 4</p>
-<p>lista 5</p>
+<p>Curso Docker com exemplos</p>
+<p>How To Use Vim Mode On </p>
+<p>The Command Line In Bash</p>
 <p>lista 6</p>
+<p>lista de kubernetes stach11</p>
+<p>lista de kubernetes stach22</p>
+<p>lista de kubernetes stach33</p>
+<p>lista de kubernetes stach44</p>
+<p>Revisao do conteudo lido</p>
+<p>Teste1</p>
+<p>Teste2</p>
+<p>Teste3</p>
+<p>Teste4</p>
 </body>
 </html>
